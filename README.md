@@ -22,4 +22,6 @@ Operation:
 Simple loop in main that transmits string "Hello World! This string is to test Logic Analyzer channels."
 with SPI and UART in polling mode. MCO1 always outputs independantly of code.
 
+Binary and ELF files are in debug folder.
+
 Thats about it.
